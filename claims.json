@@ -1,0 +1,42 @@
+[
+  {
+    "id": "C001",
+    "denial_note": "Claim denied due to invalid CPT code submitted. Please resubmit with a valid code."
+  },
+  {
+    "id": "C002",
+    "denial_note": "Patient was not eligible for coverage on the date of service. Verify insurance status."
+  },
+  {
+    "id": "C003",
+    "denial_note": "Authorization missing for the billed procedure. Submit prior auth documentation."
+  },
+  {
+    "id": "C004",
+    "denial_note": "Claim rejected: Patient date of birth does not match records. Confirm patient demographics."
+  },
+  {
+    "id": "C005",
+    "denial_note": "Service not covered under the patient's plan according to BlueCross policy 456. Check plan details."
+  },
+  {
+    "id": "C006",
+    "denial_note": "Claim denied: Incorrect modifier used with CPT 99213. Use appropriate modifier and resubmit."
+  },
+  {
+    "id": "C007",
+    "denial_note": "Duplicate claim. Claim for this service already submitted on 03/05/2024."
+  },
+  {
+    "id": "C008",
+    "denial_note": "Missing rendering provider NPI. Include all provider details and resubmit."
+  },
+  {
+    "id": "C009",
+    "denial_note": "Payer Aetna has marked this as non-covered service. Please appeal with medical necessity documentation."
+  },
+  {
+    "id": "C010",
+    "denial_note": "Procedure code 99396 requires a diagnosis code that was not submitted. Add ICD-10 and resubmit."
+  }
+]
